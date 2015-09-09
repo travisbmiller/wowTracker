@@ -1,0 +1,23 @@
+{
+  "name": "WowTimeTracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "del": "^2.0.1",
+    "express": "^4.13.3",
+    "gulp": "^3.9.0",
+    "gulp-autoprefixer": "^3.0.1",
+    "gulp-nodemon": "^2.0.4",
+    "gulp-sass": "^2.0.4"
+  },
+  "devDependencies": {
+    "gulp-nodemon": "^2.0.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
